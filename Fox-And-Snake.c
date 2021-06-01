@@ -11,7 +11,6 @@ int main()
     {
         for (int colIndex = 0; colIndex < col; colIndex++)
         {
-
             if (rowIndex % 2 == 0)
             {
                 printf("#");
