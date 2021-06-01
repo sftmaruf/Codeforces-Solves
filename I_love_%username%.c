@@ -26,10 +26,4 @@ int main(){
     return 0;
 }
 
-// 1. Collect all constest reslut & track the progess.
-// 2. Where the participate perform is pointed by a positive number.
-// 3. contest amazing: break either his and worst performance record.
-// 4. contest amazing rule 1: if the point is more than any past contest.
-// 5. contest amzing rule 2: if the point is less than any past contest.
-// 6. coders first contest isnt considered amazing.
-// 7.  1 < n < 1000
+//time-complexity: worstcase -> O(n), bestcase -> O(1)
