@@ -46,9 +46,5 @@ int main()
     return 0;
 }
 
-// 1. Given an array of n postive number > 0 integers
-// 2. we can choose two indices i and j. i != j && i - j <= 1
-// 3. remove smallest one from the i and j.
-// 4. if equal remove either one.
-// 5. Consisting array with one element
-// 6. input > contains one integer - the number of test cases.
+//time-complexity -> O(n^2) 
+//problem-link -> https://codeforces.com/problemset/problem/1399/A
