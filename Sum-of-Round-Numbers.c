@@ -4,7 +4,6 @@ int main()
 {
     int noOfTestCases;
     int roundNumbers[4];
-    int noOfSummands = 1;
 
     scanf("%d", &noOfTestCases);
     int sumOfAllRoundNumbers[noOfTestCases];
@@ -13,6 +12,7 @@ int main()
     {
         scanf("%d", &sumOfAllRoundNumbers[i]);
         int j = 0;
+        int noOfSummands = 1;
         int reminders = sumOfAllRoundNumbers[i];
         int reservedSumOfAllRoundNumbers = sumOfAllRoundNumbers[i];
 
@@ -54,10 +54,9 @@ int main()
             printf("%d ", roundNumbers[k]);
         }
         printf("\n");
-        noOfSummands = 1;
     }
-
     return 0;
 }
 
 //time-complexity -> O(n*m)
+//problem-link -> https://codeforces.com/problemset/problem/1352/A
