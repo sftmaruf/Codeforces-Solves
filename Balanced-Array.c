@@ -43,3 +43,6 @@ int main()
 
     return 0;
 }
+
+//problem-link -> https://codeforces.com/problemset/problem/1343/B
+//time-complexity -> O(n^2)
