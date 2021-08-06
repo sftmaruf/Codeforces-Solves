@@ -20,3 +20,6 @@ int main()
     printf("%d", minimumDistance);
     return 0;
 }
+
+//problem-link -> https://codeforces.com/problemset/problem/723/A
+//time-complexity -> O(n)
