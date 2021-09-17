@@ -17,4 +17,4 @@ int main(){
 }
 
 //problem-link -> https://codeforces.com/problemset/problem/758/A
-//time-complexity -> O()
+//time-complexity -> O(n)
