@@ -39,7 +39,6 @@ int main(){
 				}
 			}
 
-
 			if(nOfCandy[i] > minCandy && nOfOrange[i] <= minOrange){
 				minMoves += nOfCandy[i] - minCandy;
 			}	
