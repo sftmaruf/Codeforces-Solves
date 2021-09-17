@@ -53,4 +53,4 @@ int main(){
 }
 
 //problem-link -> https://codeforces.com/problemset/problem/1367/B
-//time-complexity -> O(n^2)  
+//time-complexity -> O(m * n^2)  
