@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	int testCases, singleInt, max = 0, greatestCommonDivisor;
+	int testCases, singleInt, greatestCommonDivisor;
 	scanf("%d", &testCases);
 
 	while(testCases--){
@@ -15,3 +15,6 @@ int main(){
 	}
 	return 0;
 }
+
+//problem-link -> https://codeforces.com/problemset/problem/1370/A
+//time-complexity -> O(n)
