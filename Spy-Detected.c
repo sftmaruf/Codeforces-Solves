@@ -32,7 +32,6 @@ int main(){
 					break;
 				}
 			}
-
 		}
 	}
 
