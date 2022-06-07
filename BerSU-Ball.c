@@ -56,8 +56,6 @@ int main()
 	sort(boysSkills, numberOfBoys);
 	sort(girlsSkills, numberOfGirls);
 
-
-
 	if(numberOfBoys < numberOfGirls)
 	{
 		solve(boysSkills, girlsSkills, numberOfBoys, numberOfGirls);
