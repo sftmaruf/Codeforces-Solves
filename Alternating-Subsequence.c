@@ -50,3 +50,6 @@ int main()
 	}
 	return 0;
 }
+
+// problem-link -> https://codeforces.com/problemset/problem/1343/C
+// time-complexity -> O(m * n)
