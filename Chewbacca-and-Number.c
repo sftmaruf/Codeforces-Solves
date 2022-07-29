@@ -2,10 +2,9 @@
 
 int main()
 {
-	long long number;
+	long long number, output = 0L, multiplier = 1L;
 	scanf("%lld", &number);
 
-	long long output = 0L, multiplier = 1L;
 	while(number > 0)
 	{
 		int specificNumber = number % 10;
