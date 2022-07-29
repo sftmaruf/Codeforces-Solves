@@ -13,7 +13,6 @@ int main()
 	
 		if(revert < specificNumber && !(number/10 <= 0 && revert <= 0)) output += (multiplier * revert);
 		else output += (multiplier * specificNumber);
-		
 		number /= 10;
 		multiplier *= 10;
 	}
